@@ -1,0 +1,17 @@
+time_of_day,Severity,count
+Morning,1,30337
+Afternoon,1,18913
+Night,2,770737
+Morning,3,457771
+Evening,1,7317
+Evening,2,815367
+Morning,2,1972052
+Evening,3,206109
+Afternoon,4,56203
+Night,1,7823
+Afternoon,2,2097298
+Evening,4,30273
+Afternoon,3,481982
+Night,4,41990
+Morning,4,48326
+Night,3,144293
